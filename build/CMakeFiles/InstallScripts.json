@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/GERSON BARBIERI/Documents/GitHub/atividade_teste/build/cmake_install.cmake",
+		"C:/Users/GERSON BARBIERI/Documents/GitHub/atividade_teste/build/googletest/cmake_install.cmake",
+		"C:/Users/GERSON BARBIERI/Documents/GitHub/atividade_teste/build/googletest/googlemock/cmake_install.cmake",
+		"C:/Users/GERSON BARBIERI/Documents/GitHub/atividade_teste/build/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

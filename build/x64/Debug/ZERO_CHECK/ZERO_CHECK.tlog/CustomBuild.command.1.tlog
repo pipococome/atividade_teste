@@ -1,0 +1,10 @@
+^C:\USERS\GERSON BARBIERI\DOCUMENTS\ATIVIDADE_TESTE\BUILD\CMAKEFILES\1EC63EC7E0BBC3901A0E3931F18EEF10\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/GERSON BARBIERI/Documents/atividade_teste" "-BC:/Users/GERSON BARBIERI/Documents/atividade_teste/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/GERSON BARBIERI/Documents/atividade_teste/build/AtividadeTeste.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

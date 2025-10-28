@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20251022-2311-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.2.0-rc1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-8EHDFQ1"
+	OSRelease="10.0.22631"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="6"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="2"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="17222"
+	TotalPhysicalMemory="16198"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="1896"
+	>
+	<Testing>
+		<StartDateTime>Oct 28 17:40 Hora oficial do Brasil</StartDateTime>
+		<StartTestTime>1761684020</StartTestTime>
+		<TestList>
+			<Test>./CalculadoraTest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>CalculadoraTest</Name>
+			<Path>.</Path>
+			<FullName>./CalculadoraTest</FullName>
+			<FullCommandLine>"C:\Users\GERSON BARBIERI\Documents\GitHub\atividade_teste\build\Debug\tests.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.153587</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\GERSON BARBIERI\Documents\GitHub\atividade_teste\build\Debug\tests.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVk0tvgkAQgO/8ijnqQVKbHpomPdRHrGmKFvVSMWZZRtxk2SH7sI9fXxA1atpA57TsfPPtwDKhU0qoFDImVKsNG00Z9B+ihUFtotEwnE0C6D2FvfEwHEcD4i5DZYuMsM8ujpgVO5GwBNcWjcUoJUolluvzpdE8SsvVujzF59xbPp5iBeGhhXsoGVP10N0/gHHCou8tO6dYwUhSzGSVR7UTmlTZFBi0HZdfwRfSPpPcSZaQZvNi11tCuAhgH6vrpD+jjBVEFZOXPwho3UBm2jUqF1vNOKMa3xFrJH110opcCl4vvkAbyQfFvZo67QH6j3BK+h11M++BbaSfkkXFRc2FHSlodeuVIRPfb44lmiU12nOyUbdlwQCDYpY0BZiWU1TzSX6rOB3V9H+vXhssWSbbXlXn+8XAzLfCQM60BdqA3WI1W+Rs7ix8MAMaM9phAkYojiCKufvkiImp4K1GsyWZlNXdm9s7iL8Kgb/yfgDemme6====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 28 17:40 Hora oficial do Brasil</EndDateTime>
+		<EndTestTime>1761684020</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
